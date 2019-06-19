@@ -1,4 +1,5 @@
-// Lab2.java
+//Ali Tapan
+//260556540
 
 package ev3Odometer;
 
