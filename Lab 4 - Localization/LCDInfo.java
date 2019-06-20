@@ -35,4 +35,12 @@ public class LCDInfo implements TimerListener{
   LCD.drawInt((int)(pos[1] * 10), 3, 1);
   LCD.drawInt((int)pos[2], 3, 2);
  }
+ 
+ 	public void pause() {
+		lcdTimer.stop();
+	}
+	
+	public void resume() {
+		lcdTimer.start();
+	}
 }
