@@ -1,4 +1,4 @@
-# McGill University - Design Principles and Methods - ECSE 211
+# McGill University - ECSE 211 - Design Principles and Methods
 
 Design specifications, parameters, optimization, implementation, troubleshooting and refinement; project management: scheduling, risk analysis, project control; case studies; design examples and project.
 
